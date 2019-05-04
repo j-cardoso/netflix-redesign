@@ -26,11 +26,11 @@
 }
 
 .favorite {
-  background-color: var(--color-none);
+  background-color: tomato;
   color: var(--text-color);
   text-transform: uppercase;
   border-radius: var(--radius);
-  border: var(--border) solid var(--color-zero);
+  border: var(--border) solid tomato;
 
   transition: all 200ms linear;
 }
